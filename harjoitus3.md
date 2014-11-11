@@ -13,7 +13,7 @@ ii. Keskeisiä käyttötapauksia järjestelmälle:
 	- näytä tilan/luokan henkilömäärä
 	- näytä graafi/tilastoja
 	
-	*testirivi*
+	
 =======
 Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 	
@@ -42,3 +42,5 @@ iii. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em.
 	- Oppilas näkee ruudulla oman nimensä ja opiskelijatunnuksensa
 	- Opettaja näkee ruudulla oppilaan nimen, opiskelijatunnuksen, läsnäolominuutit(ajan) sekä kuvan kasvoista
 
+
+	Hyvinvointini on vaakalaudalla :|
