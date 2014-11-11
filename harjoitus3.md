@@ -6,3 +6,8 @@ i. Erilaisia mahdollisia käyttökohteita sisätilapaikannukselle koulun kampuksell
 	- pelillisyys
 	
 	
+ii. Keskeisiä käyttötapauksia järjestelmälle:
+	- näytä tila/luokka 
+	- hae kaveri
+	- näytä tilan/luokan henkilömäärä
+	- näytä graafi/tilastoja
