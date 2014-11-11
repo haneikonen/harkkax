@@ -12,6 +12,8 @@ ii. Keskeisiä käyttötapauksia järjestelmälle:
 	- hae kaveri
 	- näytä tilan/luokan henkilömäärä
 	- näytä graafi/tilastoja
+	
+	*testirivi*
 =======
 Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 	
